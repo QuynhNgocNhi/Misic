@@ -1,3 +1,4 @@
+import React from 'react';
 import {StyleSheet, View, ViewProps} from 'react-native';
 import Svg, {Defs, LinearGradient, Rect, Stop} from 'react-native-svg';
 
